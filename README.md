@@ -16,9 +16,9 @@ Learn everything you need to about Node.js.
 ## Topics
 ```
 Node.js Tutorial
-[ ] Home
-[ ] Introduction
-[ ] Environment Setup
+[x] Home
+[x] Introduction
+[x] Environment Setup
 [ ] First Application
 [ ] REPL Terminal
 [ ] Package Manager (NPM)
