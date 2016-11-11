@@ -19,9 +19,9 @@ Node.js Tutorial
 [x] Home
 [x] Introduction
 [x] Environment Setup
-[ ] First Application
-[ ] REPL Terminal
-[ ] Package Manager (NPM)
+[x] First Application
+[x] REPL Terminal
+[x] Package Manager (NPM)
 [ ] Callbacks Concept
 [ ] Event Loop
 [ ] Event Emitter
