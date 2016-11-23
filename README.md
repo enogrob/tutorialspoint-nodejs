@@ -22,9 +22,9 @@ Node.js Tutorial
 [x] First Application
 [x] REPL Terminal
 [x] Package Manager (NPM)
-[ ] Callbacks Concept
-[ ] Event Loop
-[ ] Event Emitter
+[x] Callbacks Concept
+[x] Event Loop
+[x] Event Emitter
 [ ] Buffers
 [ ] Streams
 [ ] File System
