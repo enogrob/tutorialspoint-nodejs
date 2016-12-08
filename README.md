@@ -25,7 +25,7 @@ Node.js Tutorial
 [x] Callbacks Concept
 [x] Event Loop
 [x] Event Emitter
-[ ] Buffers
+[x] Buffers
 [ ] Streams
 [ ] File System
 [ ] Global Objects
