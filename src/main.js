@@ -1,19 +1,9 @@
-/**
- * Created by enogrob on 10/11/16.
- */
+var fs = require("fs");
+var zlib = require('zlib');
 
-var http = require("http");
+// Decompress the file input.txt.gz to input.txt
+fs.createReadStream('input.txt.gz')
+   .pipe(zlib.createGunzip())
+   .pipe(fs.createWriteStream('input.txt'));
 
-http.createServer(function (request, response) {
-
-    // Send the HTTP header
-    // HTTP Status: 200 : OK
-    // Content Type: text/plain
-    response.writeHead(200, {'Content-Type': 'text/plain'});
-
-    // Send the response body as "Hello World"
-    response.end('Hello World\n');
-}).listen(8081);
-
-// Console will print the message
-console.log('Server running at http://127.0.0.1:8081/');
+console.log("File Decompressed.");

@@ -26,7 +26,7 @@ Node.js Tutorial
 [x] Event Loop
 [x] Event Emitter
 [x] Buffers
-[ ] Streams
+[x] Streams
 [ ] File System
 [ ] Global Objects
 [ ] Utility Modules
