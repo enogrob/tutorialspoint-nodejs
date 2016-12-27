@@ -27,7 +27,7 @@ Node.js Tutorial
 [x] Event Emitter
 [x] Buffers
 [x] Streams
-[ ] File System
+[x] File System
 [ ] Global Objects
 [ ] Utility Modules
 [ ] Web Module
