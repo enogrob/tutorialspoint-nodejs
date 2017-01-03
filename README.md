@@ -28,7 +28,7 @@ Node.js Tutorial
 [x] Buffers
 [x] Streams
 [x] File System
-[ ] Global Objects
+[x] Global Objects
 [ ] Utility Modules
 [ ] Web Module
 [ ] Express Framework

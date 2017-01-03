@@ -1,9 +1,3 @@
-var fs = require("fs");
-var zlib = require('zlib');
+// Let's try to print the value of __dirname
 
-// Decompress the file input.txt.gz to input.txt
-fs.createReadStream('input.txt.gz')
-   .pipe(zlib.createGunzip())
-   .pipe(fs.createWriteStream('input.txt'));
-
-console.log("File Decompressed.");
+console.log( __dirname );
