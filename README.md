@@ -29,7 +29,8 @@ Node.js Tutorial
 [x] Streams
 [x] File System
 [x] Global Objects
-[ ] Utility Modules
+[~] Utility Modules
+    => done upto os-and-path-modules
 [ ] Web Module
 [ ] Express Framework
 [ ] RESTFul API
