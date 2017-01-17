@@ -31,7 +31,7 @@ Node.js Tutorial
 [x] Global Objects
 [~] Utility Modules
     => done upto os-and-path-modules
-[ ] Web Module
+[x] Web Module
 [ ] Express Framework
 [ ] RESTFul API
 [ ] Scaling Application
